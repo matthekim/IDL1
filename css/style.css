@@ -1,14 +1,1 @@
-h1 {
-    color: #ff0000;
-}
-  p {
-font-size: 35px;
-font-family: sans-serif;
-font-weight: bold;
-}
-h2 {
- color:#0000FF;
-}
-#specialleke {
- color:#00FF00;
-}
+/* Hier hoeft geen <style> tag want die is al meegegeven als je de file linkt */
